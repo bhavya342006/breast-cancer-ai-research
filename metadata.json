@@ -1,0 +1,6 @@
+{
+  "name": "Breast Cancer AI Research Platform",
+  "description": "Multimodal AI research prototype evaluating breast cancer risk stratification reliability under missing-information conditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
